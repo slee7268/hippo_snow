@@ -1,0 +1,18 @@
+[
+    {
+        "speaker": "assistant",
+        "utterance": "Hi, this is Rachel calling from O'Connor Hospital on a recorded line. Is this Stuart Wilson?"
+    },
+    {
+        "speaker": "user",
+        "utterance": "It is"
+    },
+    {
+        "speaker": "assistant",
+        "utterance": "Wonderful, I'm calling on behalf of Dr. Sunny Cooper, your Cardiologist. -- To protect your privacy, can you please share your date of birth?"
+    },
+    {
+        "speaker": "user",
+        "utterance": "Hepberthave, August twelve nineteen sixty one."
+    }
+]

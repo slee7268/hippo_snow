@@ -1,0 +1,18 @@
+[
+    {
+        "speaker": "assistant",
+        "utterance": "I'm sorry for any confusion, but I'm looking for a patient named Sally. Could you please confirm if that's you?"
+    },
+    {
+        "speaker": "user",
+        "utterance": "Oh, yes. This is Sally. Roger is my husband."
+    },
+    {
+        "speaker": "assistant",
+        "utterance": "Wonderful, I'm calling on behalf of Dr. Jonathan Chang, your Cardiologist. -- To protect your privacy, can you please share your date of birth?"
+    },
+    {
+        "speaker": "user",
+        "utterance": "one one fifty"
+    }
+]

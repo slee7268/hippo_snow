@@ -1,0 +1,26 @@
+[
+    {
+        "speaker": "assistant",
+        "utterance": "Hello there. I'm Linda calling from O'Connor Hospital on a recorded line. Is this Timothy Peck?"
+    },
+    {
+        "speaker": "user",
+        "utterance": "Yes, it is."
+    },
+    {
+        "speaker": "user",
+        "utterance": "Sure."
+    },
+    {
+        "speaker": "assistant",
+        "utterance": "[NO RESPONSE]"
+    },
+    {
+        "speaker": "user",
+        "utterance": "No, it's"
+    },
+    {
+        "speaker": "user",
+        "utterance": "April third nineteen forty two."
+    }
+]

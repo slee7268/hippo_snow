@@ -1,0 +1,26 @@
+[
+    {
+        "speaker": "assistant",
+        "utterance": "Hello, this is Roger, your chronic care management , AI. May I confirm if I'm speaking with Mr. Rodriguez?"
+    },
+    {
+        "speaker": "user",
+        "utterance": "Yeah. That's me."
+    },
+    {
+        "speaker": "assistant",
+        "utterance": "Wonderful, I'm calling on behalf of Dr. Jose Gervais, your Cardiologist. -- To protect your privacy, can you please share your date of birth?"
+    },
+    {
+        "speaker": "user",
+        "utterance": "Yeah. January first nineteen D"
+    },
+    {
+        "speaker": "assistant",
+        "utterance": "I'm sorry, Mr. Rodriguez, but the date of birth you provided doesn't seem to match our records. Could you please provide it again?"
+    },
+    {
+        "speaker": "user",
+        "utterance": "January first nineteen sixty"
+    }
+]

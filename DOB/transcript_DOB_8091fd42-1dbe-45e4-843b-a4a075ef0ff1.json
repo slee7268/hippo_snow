@@ -1,0 +1,18 @@
+[
+    {
+        "speaker": "assistant",
+        "utterance": "I'm sorry, but I'm looking for Somsong Sukson. Is that you?"
+    },
+    {
+        "speaker": "user",
+        "utterance": "Yes. It is."
+    },
+    {
+        "speaker": "assistant",
+        "utterance": "Wonderful, I'm calling on behalf of Dr. Yassine Pascual, your Cardiologist. -- To protect your privacy, can you please share your date of birth?"
+    },
+    {
+        "speaker": "user",
+        "utterance": "It is on September eightteenth nineteen fifty six"
+    }
+]

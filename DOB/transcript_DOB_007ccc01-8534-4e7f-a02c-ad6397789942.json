@@ -1,0 +1,26 @@
+[
+    {
+        "speaker": "assistant",
+        "utterance": "Hi, this is Rachel calling from O'Connor Hospital on a recorded line. Is this Nancy Green?"
+    },
+    {
+        "speaker": "user",
+        "utterance": "It is"
+    },
+    {
+        "speaker": "assistant",
+        "utterance": "Wonderful, I'm calling on behalf of Dr. Molly Sutton, your Cardiologist. -- To protect your privacy, can you please share your date of birth?"
+    },
+    {
+        "speaker": "user",
+        "utterance": "GOLV-one nineteen fifty five"
+    },
+    {
+        "speaker": "assistant",
+        "utterance": "I'm sorry, Nancy, but the date of birth you provided doesn't match our records. Could you please provide it again?"
+    },
+    {
+        "speaker": "user",
+        "utterance": "December first nineteen fifty five"
+    }
+]

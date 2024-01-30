@@ -1,0 +1,30 @@
+[
+    {
+        "speaker": "assistant",
+        "utterance": "Hello, may I confirm if I am speaking with Jane Anderson?"
+    },
+    {
+        "speaker": "user",
+        "utterance": "Yes, this is her. Who's calling"
+    },
+    {
+        "speaker": "assistant",
+        "utterance": "Wonderful, I'm calling on behalf of Dr. Emily Chu, your Cardiologist. -- To protect your privacy, can you please share your date of birth?"
+    },
+    {
+        "speaker": "user",
+        "utterance": "Yes. My birthday is January first"
+    },
+    {
+        "speaker": "assistant",
+        "utterance": "Wonderful, I'm calling on behalf of Dr. Emily Chu, your Cardiologist. -- To protect your privacy, can you please share your date of birth?"
+    },
+    {
+        "speaker": "user",
+        "utterance": "Yes. My birthday is January first"
+    },
+    {
+        "speaker": "user",
+        "utterance": "Nineteen fifty"
+    }
+]

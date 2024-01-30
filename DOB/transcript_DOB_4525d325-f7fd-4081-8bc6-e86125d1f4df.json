@@ -1,0 +1,18 @@
+[
+    {
+        "speaker": "assistant",
+        "utterance": "I'm sorry for the confusion, but I'm trying to reach a patient named Josie Morris. Are you Josie Morris?"
+    },
+    {
+        "speaker": "user",
+        "utterance": "Yes."
+    },
+    {
+        "speaker": "assistant",
+        "utterance": "Wonderful, I'm calling on behalf of Dr. France Chin, your Cardiologist. -- To protect your privacy, can you please share your date of birth?"
+    },
+    {
+        "speaker": "user",
+        "utterance": "seven twelve sixty six"
+    }
+]

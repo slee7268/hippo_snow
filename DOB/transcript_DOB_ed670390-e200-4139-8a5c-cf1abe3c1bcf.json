@@ -1,0 +1,22 @@
+[
+    {
+        "speaker": "assistant",
+        "utterance": "Hello there. I'm Linda calling from O'Connor Hospital on a recorded line. Is this Glen Forbes?"
+    },
+    {
+        "speaker": "user",
+        "utterance": "Yes."
+    },
+    {
+        "speaker": "assistant",
+        "utterance": "-- To protect your privacy, can you please share your date of birth?"
+    },
+    {
+        "speaker": "user",
+        "utterance": "Eleven eleven"
+    },
+    {
+        "speaker": "user",
+        "utterance": "methi eighty six"
+    }
+]

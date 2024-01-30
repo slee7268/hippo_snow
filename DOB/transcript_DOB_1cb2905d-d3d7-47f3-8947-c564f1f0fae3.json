@@ -1,0 +1,18 @@
+[
+    {
+        "speaker": "assistant",
+        "utterance": "I'm sorry, I didn't quite catch that. Can you please confirm if this is Diane Harris?"
+    },
+    {
+        "speaker": "user",
+        "utterance": "Yes, this is Diane Harris."
+    },
+    {
+        "speaker": "assistant",
+        "utterance": "Wonderful, I'm calling on behalf of Dr. Susan Ma, your Nephrologist. -- To protect your privacy, can you please share your date of birth?"
+    },
+    {
+        "speaker": "user",
+        "utterance": "Okay. My date of birth Is January first nineteen sixty?"
+    }
+]

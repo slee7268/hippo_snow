@@ -1,0 +1,18 @@
+[
+    {
+        "speaker": "assistant",
+        "utterance": "I am intending to call a patient named Lily Adams. Can I confirm if this is her?"
+    },
+    {
+        "speaker": "user",
+        "utterance": "Yes. This is her"
+    },
+    {
+        "speaker": "assistant",
+        "utterance": "Wonderful, I'm calling on behalf of Dr. Jonathan Chang, your Cardiologist. -- To protect your privacy, can you please share your date of birth?"
+    },
+    {
+        "speaker": "user",
+        "utterance": "Sure. It's one one fifty"
+    }
+]

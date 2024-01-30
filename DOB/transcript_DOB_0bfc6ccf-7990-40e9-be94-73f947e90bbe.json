@@ -1,0 +1,22 @@
+[
+    {
+        "speaker": "assistant",
+        "utterance": "Hello there. I'm Linda calling from O'Connor Hospital on a recorded line. Is this Albert Lee?"
+    },
+    {
+        "speaker": "user",
+        "utterance": "Yes, it is."
+    },
+    {
+        "speaker": "assistant",
+        "utterance": "Wonderful, I'm calling on behalf of Dr. Martin Willis, your physician. -- To protect your privacy, can you please share your date of birth?"
+    },
+    {
+        "speaker": "user",
+        "utterance": "DS,"
+    },
+    {
+        "speaker": "user",
+        "utterance": "it's May six nineteen seventy."
+    }
+]

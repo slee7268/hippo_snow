@@ -1,0 +1,30 @@
+[
+    {
+        "speaker": "assistant",
+        "utterance": "Hello there. I'm Linda calling from O'Connor Hospital on a recorded line. Is this Khadijah Price?"
+    },
+    {
+        "speaker": "user",
+        "utterance": "Yes. It is."
+    },
+    {
+        "speaker": "assistant",
+        "utterance": "Wonderful, I'm calling on behalf of Dr. Susan Ma, your Nephrologist. -- To protect your privacy, can you please share your date of birth?"
+    },
+    {
+        "speaker": "user",
+        "utterance": "I'm"
+    },
+    {
+        "speaker": "assistant",
+        "utterance": "Could you please provide your date of birth again for verification purposes? Please note that for your security, I won't mention the actual date we have on file."
+    },
+    {
+        "speaker": "user",
+        "utterance": "And she"
+    },
+    {
+        "speaker": "user",
+        "utterance": "January one nineteen sixty"
+    }
+]

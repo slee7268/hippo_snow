@@ -1,0 +1,42 @@
+[
+    {
+        "speaker": "user",
+        "utterance": "Yes?"
+    },
+    {
+        "speaker": "assistant",
+        "utterance": "May I confirm, am I speaking with Nancy Farrell?"
+    },
+    {
+        "speaker": "user",
+        "utterance": "Yes, this is Nancy."
+    },
+    {
+        "speaker": "assistant",
+        "utterance": "Wonderful, I'm calling on behalf of Dr. Robert Benson, your physician. -- To protect your privacy, can you please share your date of birth?"
+    },
+    {
+        "speaker": "user",
+        "utterance": "Thank you"
+    },
+    {
+        "speaker": "assistant",
+        "utterance": "Could you please provide your date of birth again for verification purposes?"
+    },
+    {
+        "speaker": "user",
+        "utterance": "Enzyme disease"
+    },
+    {
+        "speaker": "debug",
+        "utterance": "Lab Detected!! Original model response: [acid phosphatase]<none>"
+    },
+    {
+        "speaker": "debug",
+        "utterance": "Lab Detected!! Original model response: [acid phosphatase]<none>"
+    },
+    {
+        "speaker": "user",
+        "utterance": "May four, nineteen forty,"
+    }
+]

@@ -1,0 +1,18 @@
+[
+    {
+        "speaker": "assistant",
+        "utterance": "Hello, this is Roger, your chronic care management , AI. May I confirm if I'm speaking with Mr. Glen Forbes?"
+    },
+    {
+        "speaker": "user",
+        "utterance": "Yes, you are."
+    },
+    {
+        "speaker": "assistant",
+        "utterance": "Wonderful, I'm calling on behalf of Dr. Ellie Ortega, your Cardiologist. -- To protect your privacy, can you please share your date of birth?"
+    },
+    {
+        "speaker": "user",
+        "utterance": "November eleventh nineteen eighty six"
+    }
+]

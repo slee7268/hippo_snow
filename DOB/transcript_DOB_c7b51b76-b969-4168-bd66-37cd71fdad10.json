@@ -1,0 +1,22 @@
+[
+    {
+        "speaker": "assistant",
+        "utterance": "Hello. I'm Roger callin' from O'Connor Hospital on a recorded line. Is this Fatima Tardif?"
+    },
+    {
+        "speaker": "user",
+        "utterance": "Yes."
+    },
+    {
+        "speaker": "assistant",
+        "utterance": "Wonderful, I'm calling on behalf of Dr. Lisa Beaupre, your Cardiologist. -- To protect your privacy, can you please share your date of birth?"
+    },
+    {
+        "speaker": "user",
+        "utterance": "Eight zero seven seventy one"
+    },
+    {
+        "speaker": "user",
+        "utterance": "Eight eleven Seventy one"
+    }
+]

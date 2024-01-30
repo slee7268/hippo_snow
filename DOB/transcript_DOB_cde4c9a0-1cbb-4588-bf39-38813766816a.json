@@ -1,0 +1,42 @@
+[
+    {
+        "speaker": "assistant",
+        "utterance": "<break time=\"0.7s\"/> Hello there. I'm Linda calling from O'Connor Hospital on a recorded line. Is this Pedro Sousa?"
+    },
+    {
+        "speaker": "user",
+        "utterance": "Yes."
+    },
+    {
+        "speaker": "assistant",
+        "utterance": "Wonderful, I'm calling on behalf of Dr. Maria Smith, your Nephrologist. -- To protect your privacy, can you please share your date of birth?"
+    },
+    {
+        "speaker": "user",
+        "utterance": "January first nineteen six"
+    },
+    {
+        "speaker": "assistant",
+        "utterance": "I'm sorry, but the date of birth you provided doesn't match our records. Could you please provide it again?"
+    },
+    {
+        "speaker": "user",
+        "utterance": "January one, nineteen six"
+    },
+    {
+        "speaker": "user",
+        "utterance": "is"
+    },
+    {
+        "speaker": "assistant",
+        "utterance": "Could you please provide it again?"
+    },
+    {
+        "speaker": "user",
+        "utterance": "January first, nineteen"
+    },
+    {
+        "speaker": "user",
+        "utterance": "sixty"
+    }
+]

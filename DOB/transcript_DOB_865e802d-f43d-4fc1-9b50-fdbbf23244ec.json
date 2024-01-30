@@ -1,0 +1,18 @@
+[
+    {
+        "speaker": "assistant",
+        "utterance": "Is this Nancy Farrell?"
+    },
+    {
+        "speaker": "user",
+        "utterance": "On the X-ray one. Yes. This is Nancy Farrell."
+    },
+    {
+        "speaker": "assistant",
+        "utterance": "Wonderful, I'm calling on behalf of Dr. Robert Benson, your physician. -- To protect your privacy, can you please share your date of birth?"
+    },
+    {
+        "speaker": "user",
+        "utterance": "May four nineteen forty."
+    }
+]

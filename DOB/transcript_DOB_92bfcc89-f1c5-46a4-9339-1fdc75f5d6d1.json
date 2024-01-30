@@ -1,0 +1,18 @@
+[
+    {
+        "speaker": "assistant",
+        "utterance": "I understand. Let me clarify. I am trying to reach a patient named Somsong Sukson. Could you please confirm if that's you?"
+    },
+    {
+        "speaker": "user",
+        "utterance": "Yes. That's me."
+    },
+    {
+        "speaker": "assistant",
+        "utterance": "Wonderful, I'm calling on behalf of Dr. Yassine Pascual, your Cardiologist. -- To protect your privacy, can you please share your date of birth?"
+    },
+    {
+        "speaker": "user",
+        "utterance": "Hello. I said I said nine eighteen fifty six"
+    }
+]

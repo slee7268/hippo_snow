@@ -1,0 +1,38 @@
+[
+    {
+        "speaker": "assistant",
+        "utterance": "Hi, this is Rachel calling from O'Connor Hospital on a recorded line. Is this Elena Galanais?"
+    },
+    {
+        "speaker": "user",
+        "utterance": "Yes. It is."
+    },
+    {
+        "speaker": "assistant",
+        "utterance": "Wonderful, I'm calling on behalf of Dr. Dora Doukas, your Cardiologist. -- To protect your privacy, can you please share your date of birth?"
+    },
+    {
+        "speaker": "user",
+        "utterance": "With"
+    },
+    {
+        "speaker": "assistant",
+        "utterance": "I'm sorry, Elena, but the date of birth we have on file doesn't seem to match the one you provided earlier. Could you please provide your date of birth again for verification purposes? Please note that for your security, I won't mention the actual date we have in our records."
+    },
+    {
+        "speaker": "user",
+        "utterance": "Of course, my birthday is March third nineteen seventy."
+    },
+    {
+        "speaker": "assistant",
+        "utterance": "Could you please provide it once more? Please remember, for your security, I won't mention the actual date we have in our records."
+    },
+    {
+        "speaker": "user",
+        "utterance": "Well, I appreciate that, but I said it before, it's March"
+    },
+    {
+        "speaker": "user",
+        "utterance": "Third, nineteen seventy eight"
+    }
+]

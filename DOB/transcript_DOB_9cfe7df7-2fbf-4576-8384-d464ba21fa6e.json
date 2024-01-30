@@ -1,0 +1,18 @@
+[
+    {
+        "speaker": "assistant",
+        "utterance": "Hello, this is Roger, the , AI for Doctor Emily Chu's office. May I confirm if I'm speaking with Jane Anderson?"
+    },
+    {
+        "speaker": "user",
+        "utterance": "Yeah."
+    },
+    {
+        "speaker": "assistant",
+        "utterance": "Wonderful, I'm calling on behalf of Dr. Emily Chu, your Cardiologist. -- To protect your privacy, can you please share your date of birth?"
+    },
+    {
+        "speaker": "user",
+        "utterance": "January one, nineteen fifty,"
+    }
+]

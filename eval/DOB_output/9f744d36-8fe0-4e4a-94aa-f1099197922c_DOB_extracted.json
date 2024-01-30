@@ -1,0 +1,24 @@
+{
+    "messages": [
+        {
+            "speaker": "assistant",
+            "utterance": "Hi, this is Rachel calling from O'Connor Hospital on a recorded line. Is this Josie Morris?"
+        },
+        {
+            "speaker": "user",
+            "utterance": "Yeah. Yeah. Yeah."
+        },
+        {
+            "speaker": "assistant",
+            "utterance": "Wonderful, I'm calling on behalf of Dr. France Chin, your Cardiologist. -- To protect your privacy, can you please share your date of birth?"
+        },
+        {
+            "speaker": "user",
+            "utterance": "July twelve nineteen sixty six."
+        }
+    ],
+    "metadata": {
+        "call_id": "9f744d36-8fe0-4e4a-94aa-f1099197922c",
+        "DOB_extracted": "07-12-1966"
+    }
+}

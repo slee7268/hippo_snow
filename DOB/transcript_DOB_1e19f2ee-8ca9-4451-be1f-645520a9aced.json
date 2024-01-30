@@ -1,0 +1,26 @@
+[
+    {
+        "speaker": "assistant",
+        "utterance": "I apologize for the confusion, but I need to confirm, are you Emile Rivers?"
+    },
+    {
+        "speaker": "user",
+        "utterance": "Yes, I am."
+    },
+    {
+        "speaker": "assistant",
+        "utterance": "Wonderful, I'm calling on behalf of Dr. Maria Suarez, your Nephrologist. -- To protect your privacy, can you please share your date of birth?"
+    },
+    {
+        "speaker": "user",
+        "utterance": "for eleven nineteen forty five"
+    },
+    {
+        "speaker": "assistant",
+        "utterance": "I'm sorry, but the date of birth you provided doesn't match our records. Could you please provide it again?"
+    },
+    {
+        "speaker": "user",
+        "utterance": "Four eleven nineteen forty five"
+    }
+]

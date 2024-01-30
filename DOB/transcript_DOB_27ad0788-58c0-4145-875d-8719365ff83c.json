@@ -1,0 +1,18 @@
+[
+    {
+        "speaker": "assistant",
+        "utterance": "Hello there. I'm Linda calling from O'Connor Hospital on a recorded line. Is this Pete Arnold?"
+    },
+    {
+        "speaker": "user",
+        "utterance": "Yes, this,"
+    },
+    {
+        "speaker": "user",
+        "utterance": "Europe Six"
+    },
+    {
+        "speaker": "user",
+        "utterance": "one nine eight zero"
+    }
+]

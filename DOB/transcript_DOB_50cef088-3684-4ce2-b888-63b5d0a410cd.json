@@ -1,0 +1,38 @@
+[
+    {
+        "speaker": "assistant",
+        "utterance": "Hello there. I'm Linda calling from O'Connor Hospital on a recorded line. Is this Quincy Castillo?"
+    },
+    {
+        "speaker": "user",
+        "utterance": "Yes."
+    },
+    {
+        "speaker": "assistant",
+        "utterance": "Wonderful, I'm calling on behalf of Dr. Phil Steele, your Cardiologist. -- To protect your privacy, can you please share your date of birth?"
+    },
+    {
+        "speaker": "user",
+        "utterance": "Yeah."
+    },
+    {
+        "speaker": "assistant",
+        "utterance": "-- To protect your privacy, can you please share your date of birth?"
+    },
+    {
+        "speaker": "user",
+        "utterance": "Yeah."
+    },
+    {
+        "speaker": "user",
+        "utterance": "Hello?"
+    },
+    {
+        "speaker": "assistant",
+        "utterance": "Could you please provide your date of birth again for verification purposes?"
+    },
+    {
+        "speaker": "user",
+        "utterance": "I didn't provide my date of birth But I can provide that for you now. August twenty four, nineteen eighty six,"
+    }
+]

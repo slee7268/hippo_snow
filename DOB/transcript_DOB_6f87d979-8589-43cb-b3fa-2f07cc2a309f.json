@@ -1,0 +1,26 @@
+[
+    {
+        "speaker": "assistant",
+        "utterance": "<break time=\"0.7s\"/> Hello. I'm Roger callin' from O'Connor Hospital on a recorded line. Is this Eduardo Hardy?"
+    },
+    {
+        "speaker": "user",
+        "utterance": "Yes,"
+    },
+    {
+        "speaker": "assistant",
+        "utterance": "Wonderful, I'm calling on behalf of Dr. Anuj Gopal, your Nephrologist. -- To protect your privacy, can you please share your date of birth?"
+    },
+    {
+        "speaker": "user",
+        "utterance": "Shay with first nineteen fifty"
+    },
+    {
+        "speaker": "assistant",
+        "utterance": "I'm sorry, Eduardo, but the date of birth you provided doesn't seem to match our records. Could you please provide it again?"
+    },
+    {
+        "speaker": "user",
+        "utterance": "January first nineteen fifty"
+    }
+]

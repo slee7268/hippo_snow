@@ -1,0 +1,18 @@
+[
+    {
+        "speaker": "assistant",
+        "utterance": "Hello, this is Rachel, your chronic care management , AI. May I confirm if I'm speaking with Mr. Phillips?"
+    },
+    {
+        "speaker": "user",
+        "utterance": "Yeah. Kidney."
+    },
+    {
+        "speaker": "assistant",
+        "utterance": "Wonderful, I'm calling on behalf of Dr. Trevor Sutton, your Cardiologist. -- To protect your privacy, can you please share your date of birth?"
+    },
+    {
+        "speaker": "user",
+        "utterance": "December fifth nineteen sixty one."
+    }
+]

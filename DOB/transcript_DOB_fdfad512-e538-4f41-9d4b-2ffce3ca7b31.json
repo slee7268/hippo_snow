@@ -1,0 +1,38 @@
+[
+    {
+        "speaker": "assistant",
+        "utterance": "Hello there. I'm Linda calling from O'Connor Hospital on a recorded line. Is this Ronald Turner?"
+    },
+    {
+        "speaker": "user",
+        "utterance": "This is him."
+    },
+    {
+        "speaker": "assistant",
+        "utterance": "Wonderful, I'm calling on behalf of Dr. Peter Smith, your physician. -- To protect your privacy, can you please share your date of birth?"
+    },
+    {
+        "speaker": "user",
+        "utterance": "Bancis,"
+    },
+    {
+        "speaker": "assistant",
+        "utterance": "-- To protect your privacy, can you please share your date of birth?"
+    },
+    {
+        "speaker": "user",
+        "utterance": "Bancis,"
+    },
+    {
+        "speaker": "user",
+        "utterance": "nineteen thirty nine."
+    },
+    {
+        "speaker": "assistant",
+        "utterance": "I'm sorry, Mr. Turner, but the date of birth you provided doesn't match our records. Could you please provide it again?"
+    },
+    {
+        "speaker": "user",
+        "utterance": "Five two two nineteen thirty nine"
+    }
+]

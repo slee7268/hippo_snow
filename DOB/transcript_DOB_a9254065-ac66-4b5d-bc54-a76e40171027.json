@@ -1,0 +1,42 @@
+[
+    {
+        "speaker": "assistant",
+        "utterance": "Is this Pedro Sousa?"
+    },
+    {
+        "speaker": "user",
+        "utterance": "Yes. Federalro"
+    },
+    {
+        "speaker": "assistant",
+        "utterance": "-- To protect your privacy, can you please share your date of birth?"
+    },
+    {
+        "speaker": "user",
+        "utterance": "January first nineteen six"
+    },
+    {
+        "speaker": "user",
+        "utterance": "seen,"
+    },
+    {
+        "speaker": "assistant",
+        "utterance": "I'm sorry, but the date of birth you provided doesn't match our records. Could you please provide it again?"
+    },
+    {
+        "speaker": "user",
+        "utterance": "Yes. January five nineteen sixty."
+    },
+    {
+        "speaker": "assistant",
+        "utterance": "I'm sorry, but the date of birth you provided still doesn't match our records. Could you please provide it again?"
+    },
+    {
+        "speaker": "user",
+        "utterance": "January first"
+    },
+    {
+        "speaker": "user",
+        "utterance": "nineteen sixty"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "speaker": "assistant",
+        "utterance": "Hello, this is Linda, your chronic care management , AI. May I confirm if I am speaking with the person for whom this call is intended?"
+    },
+    {
+        "speaker": "user",
+        "utterance": "Oh, yes."
+    },
+    {
+        "speaker": "assistant",
+        "utterance": "Wonderful, I'm calling on behalf of Dr. Maria Smith, your Nephrologist. -- To protect your privacy, can you please share your date of birth?"
+    },
+    {
+        "speaker": "user",
+        "utterance": "Hello?"
+    },
+    {
+        "speaker": "assistant",
+        "utterance": "I'm sorry, but I didn't catch your date of birth. Could you please provide it again for verification purposes?"
+    },
+    {
+        "speaker": "user",
+        "utterance": "I said January first nineteen sixty."
+    }
+]

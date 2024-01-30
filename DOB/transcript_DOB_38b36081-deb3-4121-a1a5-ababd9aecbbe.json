@@ -1,0 +1,22 @@
+[
+    {
+        "speaker": "assistant",
+        "utterance": "I apologize for any confusion, but I'm looking for a patient named Izzie Chavez who is under the care of Doctor Robert Jackson. Is that you?"
+    },
+    {
+        "speaker": "user",
+        "utterance": "Yeah. This is me."
+    },
+    {
+        "speaker": "assistant",
+        "utterance": "Wonderful, I'm calling on behalf of Dr. Robert Jackson, your Cardiologist. -- To protect your privacy, can you please share your date of birth?"
+    },
+    {
+        "speaker": "user",
+        "utterance": "Sure, five four"
+    },
+    {
+        "speaker": "user",
+        "utterance": "sixty five"
+    }
+]

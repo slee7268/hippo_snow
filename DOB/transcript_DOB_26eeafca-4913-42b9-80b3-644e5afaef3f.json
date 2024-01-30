@@ -1,0 +1,18 @@
+[
+    {
+        "speaker": "assistant",
+        "utterance": "Can you please confirm if you are the person I'm supposed to be speaking with?"
+    },
+    {
+        "speaker": "user",
+        "utterance": "Yes. My name is Jordan Mende. Date of birth, January twenty nine, nineteen eighty four."
+    },
+    {
+        "speaker": "assistant",
+        "utterance": "Wonderful, I'm calling on behalf of Dr. Henry Stapleton, your Cardiologist. -- To protect your privacy, can you please share your date of birth?"
+    },
+    {
+        "speaker": "user",
+        "utterance": "January twenty ninth nineteen eighty four."
+    }
+]

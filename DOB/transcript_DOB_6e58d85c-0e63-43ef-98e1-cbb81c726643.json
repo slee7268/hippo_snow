@@ -1,0 +1,18 @@
+[
+    {
+        "speaker": "assistant",
+        "utterance": "Hello, may I confirm if I'm speaking with the person for whom this call is intended?"
+    },
+    {
+        "speaker": "user",
+        "utterance": "This is Ana AQR,"
+    },
+    {
+        "speaker": "assistant",
+        "utterance": "Wonderful, I'm calling on behalf of Dr. Lynne Contreras, your physician. -- To protect your privacy, can you please share your date of birth?"
+    },
+    {
+        "speaker": "user",
+        "utterance": "Three fourteenth nineteen fifty."
+    }
+]

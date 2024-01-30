@@ -1,0 +1,18 @@
+[
+    {
+        "speaker": "user",
+        "utterance": "From Pernause, pronounced, pronounced,"
+    },
+    {
+        "speaker": "user",
+        "utterance": "fatima"
+    },
+    {
+        "speaker": "assistant",
+        "utterance": "Wonderful, I'm calling on behalf of Dr. Lisa Beaupre, your Cardiologist. -- To protect your privacy, can you please share your date of birth?"
+    },
+    {
+        "speaker": "user",
+        "utterance": "August eleven nineteen seventy one"
+    }
+]

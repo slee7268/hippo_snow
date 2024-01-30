@@ -1,0 +1,26 @@
+[
+    {
+        "speaker": "assistant",
+        "utterance": "Hello there. I'm Linda calling from O'Connor Hospital on a recorded line. Is this Kenneth Baker?"
+    },
+    {
+        "speaker": "user",
+        "utterance": "Yes. Yes."
+    },
+    {
+        "speaker": "assistant",
+        "utterance": "Wonderful, I'm calling on behalf of Dr. Marta Marcuso, your Cardiologist. -- To protect your privacy, can you please share your date of birth?"
+    },
+    {
+        "speaker": "user",
+        "utterance": "February twenty nineteen seventy."
+    },
+    {
+        "speaker": "assistant",
+        "utterance": "I'm sorry, but the date of birth you provided doesn't seem to match our records. Could you please provide it again?"
+    },
+    {
+        "speaker": "user",
+        "utterance": "February fifth. Nineteen seventy"
+    }
+]

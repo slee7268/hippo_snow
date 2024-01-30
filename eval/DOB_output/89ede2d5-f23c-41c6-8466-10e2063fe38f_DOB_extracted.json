@@ -1,0 +1,24 @@
+{
+    "messages": [
+        {
+            "speaker": "assistant",
+            "utterance": "Hello there. I'm Linda calling from O'Connor Hospital on a recorded line. Is this Viviana Frautso?"
+        },
+        {
+            "speaker": "user",
+            "utterance": "Yes, it is."
+        },
+        {
+            "speaker": "assistant",
+            "utterance": "Wonderful, I'm calling on behalf of Dr. Norbeta Valencia, your Cardiologist. -- To protect your privacy, can you please share your date of birth?"
+        },
+        {
+            "speaker": "user",
+            "utterance": "September ninth nineteen seventy two."
+        }
+    ],
+    "metadata": {
+        "call_id": "89ede2d5-f23c-41c6-8466-10e2063fe38f",
+        "DOB_extracted": "09-09-1972"
+    }
+}

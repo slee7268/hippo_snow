@@ -1,0 +1,36 @@
+{
+    "messages": [
+        {
+            "speaker": "user",
+            "utterance": "Hello."
+        },
+        {
+            "speaker": "assistant",
+            "utterance": "Hello, may I confirm if I am speaking with Mr. Ronald Turner?"
+        },
+        {
+            "speaker": "user",
+            "utterance": "Yes. You are."
+        },
+        {
+            "speaker": "assistant",
+            "utterance": "Wonderful, I'm calling on behalf of Dr. Peter Smith, your physician. -- To protect your privacy, can you please share your date of birth?"
+        },
+        {
+            "speaker": "user",
+            "utterance": "at this"
+        },
+        {
+            "speaker": "user",
+            "utterance": "at this"
+        },
+        {
+            "speaker": "user",
+            "utterance": "Excuse me, May second nineteen thirty nine,"
+        }
+    ],
+    "metadata": {
+        "call_id": "9ebef1a5-35b9-43bd-b8c8-e84760b21775",
+        "DOB_extracted": "05-02-1939"
+    }
+}

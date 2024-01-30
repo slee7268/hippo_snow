@@ -1,0 +1,42 @@
+[
+    {
+        "speaker": "assistant",
+        "utterance": "Hello there. I'm Linda calling from O'Connor Hospital on a recorded line. Is this Nancy Farrell?"
+    },
+    {
+        "speaker": "user",
+        "utterance": "Yes,"
+    },
+    {
+        "speaker": "assistant",
+        "utterance": "-- To protect your privacy, can you please share your date of birth?"
+    },
+    {
+        "speaker": "user",
+        "utterance": "May fourth, not"
+    },
+    {
+        "speaker": "user",
+        "utterance": "eighteen forty"
+    },
+    {
+        "speaker": "assistant",
+        "utterance": "I'm sorry, Nancy, but the date of birth you provided doesn't seem to match our records. Could you please provide it again?"
+    },
+    {
+        "speaker": "user",
+        "utterance": "May fourth, not pain forward"
+    },
+    {
+        "speaker": "assistant",
+        "utterance": "Could you please provide it once more?"
+    },
+    {
+        "speaker": "user",
+        "utterance": "five"
+    },
+    {
+        "speaker": "user",
+        "utterance": "for forty"
+    }
+]

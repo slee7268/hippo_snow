@@ -1,0 +1,22 @@
+[
+    {
+        "speaker": "assistant",
+        "utterance": "Is this Carla Arnold?"
+    },
+    {
+        "speaker": "user",
+        "utterance": "plate wire,"
+    },
+    {
+        "speaker": "user",
+        "utterance": "Yes. Hello."
+    },
+    {
+        "speaker": "assistant",
+        "utterance": "Wonderful, I'm calling on behalf of Dr. Jack Smith, your physician. -- To protect your privacy, can you please share your date of birth?"
+    },
+    {
+        "speaker": "user",
+        "utterance": "April six, nineteen eighty"
+    }
+]

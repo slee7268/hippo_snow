@@ -1,0 +1,22 @@
+[
+    {
+        "speaker": "assistant",
+        "utterance": "This call is intended for a patient under the care of Doctor Robert Jackson. Could you please confirm if that's you?"
+    },
+    {
+        "speaker": "user",
+        "utterance": "Robert Jackson is my provider, yes,"
+    },
+    {
+        "speaker": "assistant",
+        "utterance": "Wonderful, I'm calling on behalf of Dr. Robert Jackson, your Cardiologist. -- To protect your privacy, can you please share your date of birth?"
+    },
+    {
+        "speaker": "user",
+        "utterance": "Some opinions"
+    },
+    {
+        "speaker": "user",
+        "utterance": "Sure thing. It's May four nineteen sixty five."
+    }
+]

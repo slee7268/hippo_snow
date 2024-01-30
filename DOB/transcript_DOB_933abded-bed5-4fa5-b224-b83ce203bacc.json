@@ -1,0 +1,18 @@
+[
+    {
+        "speaker": "assistant",
+        "utterance": "Hi, this is Rachel calling from O'Connor Hospital on a recorded line. Is this Kai Cardenas?"
+    },
+    {
+        "speaker": "user",
+        "utterance": "It is."
+    },
+    {
+        "speaker": "user",
+        "utterance": "Yes. Six"
+    },
+    {
+        "speaker": "user",
+        "utterance": "six nineteen seventy six"
+    }
+]

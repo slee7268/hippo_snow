@@ -1,0 +1,18 @@
+[
+    {
+        "speaker": "assistant",
+        "utterance": "Hello, I'm Linda, an , AI from O'Connor Hospital. May I confirm if I'm speaking with Carla Arnold?"
+    },
+    {
+        "speaker": "user",
+        "utterance": "Yes. This is Carla Arnold."
+    },
+    {
+        "speaker": "assistant",
+        "utterance": "Wonderful, I'm calling on behalf of Dr. Jack Smith, your physician. -- To protect your privacy, can you please share your date of birth?"
+    },
+    {
+        "speaker": "user",
+        "utterance": "April six, nineteen eighty."
+    }
+]

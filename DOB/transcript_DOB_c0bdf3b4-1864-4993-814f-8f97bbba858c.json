@@ -1,0 +1,18 @@
+[
+    {
+        "speaker": "assistant",
+        "utterance": "Is this Pete Arnold?"
+    },
+    {
+        "speaker": "user",
+        "utterance": "Yes, it is. Yes. It is. Hello?"
+    },
+    {
+        "speaker": "assistant",
+        "utterance": "Wonderful, I'm calling on behalf of Dr. Jack Smith, your Cardiologist. -- To protect your privacy, can you please share your date of birth?"
+    },
+    {
+        "speaker": "user",
+        "utterance": "is April six nineteen eighty"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "speaker": "assistant",
+        "utterance": "Hello. I'm Roger callin' from O'Connor Hospital on a recorded line. Is this Emily Stavis?"
+    },
+    {
+        "speaker": "user",
+        "utterance": "Yes."
+    },
+    {
+        "speaker": "assistant",
+        "utterance": "Wonderful, I'm calling on behalf of Dr. Maria Suarez, your Cardiologist. -- To protect your privacy, can you please share your date of birth?"
+    },
+    {
+        "speaker": "user",
+        "utterance": "Okay."
+    },
+    {
+        "speaker": "assistant",
+        "utterance": "I'm sorry, Emily, but it seems there's a discrepancy with the date of birth we have on file for you. Could you please provide your date of birth again for verification purposes?"
+    },
+    {
+        "speaker": "user",
+        "utterance": "My date of birth is April eleven Nineteen forty five"
+    }
+]

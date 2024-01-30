@@ -1,0 +1,18 @@
+[
+    {
+        "speaker": "assistant",
+        "utterance": "Hello, this is Linda, your chronic care management , AI. May I confirm if I'm speaking with Mr. Gates?"
+    },
+    {
+        "speaker": "user",
+        "utterance": "This is he,"
+    },
+    {
+        "speaker": "assistant",
+        "utterance": "Wonderful, I'm calling on behalf of Dr. Jami Wyatt, your physician. -- To protect your privacy, can you please share your date of birth?"
+    },
+    {
+        "speaker": "user",
+        "utterance": "five zero two nineteen thirty nine."
+    }
+]

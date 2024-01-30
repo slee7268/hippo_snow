@@ -1,0 +1,18 @@
+[
+    {
+        "speaker": "assistant",
+        "utterance": "Is this Rudy Fisher?"
+    },
+    {
+        "speaker": "user",
+        "utterance": "Yes. So Yes. It is."
+    },
+    {
+        "speaker": "assistant",
+        "utterance": "Wonderful, I'm calling on behalf of Dr. Maria Rodriguez, your physician. -- To protect your privacy, can you please share your date of birth?"
+    },
+    {
+        "speaker": "user",
+        "utterance": "May twenty three, nineteen ninety."
+    }
+]

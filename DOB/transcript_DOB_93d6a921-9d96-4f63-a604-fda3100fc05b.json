@@ -1,0 +1,22 @@
+[
+    {
+        "speaker": "assistant",
+        "utterance": "Hello. I'm Roger callin' from O'Connor Hospital on a recorded line. Is this Timothy Peck?"
+    },
+    {
+        "speaker": "user",
+        "utterance": "Yeah."
+    },
+    {
+        "speaker": "user",
+        "utterance": "o four"
+    },
+    {
+        "speaker": "user",
+        "utterance": "zero three"
+    },
+    {
+        "speaker": "user",
+        "utterance": "nineteen forty two"
+    }
+]

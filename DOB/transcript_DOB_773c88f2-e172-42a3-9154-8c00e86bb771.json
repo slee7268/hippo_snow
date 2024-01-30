@@ -1,0 +1,50 @@
+[
+    {
+        "speaker": "assistant",
+        "utterance": "Hello there. I'm Linda calling from O'Connor Hospital on a recorded line. Is this Izzie Chavez?"
+    },
+    {
+        "speaker": "user",
+        "utterance": "Yes."
+    },
+    {
+        "speaker": "user",
+        "utterance": "low size"
+    },
+    {
+        "speaker": "user",
+        "utterance": "those four"
+    },
+    {
+        "speaker": "user",
+        "utterance": "nineteen sixty five"
+    },
+    {
+        "speaker": "user",
+        "utterance": "nineteen sixty five"
+    },
+    {
+        "speaker": "user",
+        "utterance": "It's enormous and most of those sides"
+    },
+    {
+        "speaker": "user",
+        "utterance": "I'm good morning."
+    },
+    {
+        "speaker": "user",
+        "utterance": "four nineteen sixty five is enormous"
+    },
+    {
+        "speaker": "user",
+        "utterance": "zero five"
+    },
+    {
+        "speaker": "user",
+        "utterance": "zero four"
+    },
+    {
+        "speaker": "user",
+        "utterance": "nineteen sixty five"
+    }
+]

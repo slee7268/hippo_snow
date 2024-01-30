@@ -1,0 +1,22 @@
+[
+    {
+        "speaker": "assistant",
+        "utterance": "Hello, may I confirm if I'm speaking with the patient of Doctor Maria Suarez?"
+    },
+    {
+        "speaker": "user",
+        "utterance": "Well, I am a patient of Doctor. Maria"
+    },
+    {
+        "speaker": "user",
+        "utterance": "This is Emily. Is that who you were trying to reach?"
+    },
+    {
+        "speaker": "assistant",
+        "utterance": "Wonderful, I'm calling on behalf of Dr. Maria Suarez, your Nephrologist. -- To protect your privacy, can you please share your date of birth?"
+    },
+    {
+        "speaker": "user",
+        "utterance": "April eleven, nineteen forty five."
+    }
+]

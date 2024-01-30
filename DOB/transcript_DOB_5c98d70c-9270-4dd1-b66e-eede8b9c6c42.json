@@ -1,0 +1,18 @@
+[
+    {
+        "speaker": "assistant",
+        "utterance": "Hello there. I'm Linda calling from O'Connor Hospital on a recorded line. Is this Paula Warrell?"
+    },
+    {
+        "speaker": "user",
+        "utterance": "It is."
+    },
+    {
+        "speaker": "user",
+        "utterance": "Of course My birthday is"
+    },
+    {
+        "speaker": "user",
+        "utterance": "May four, nineteen forty."
+    }
+]

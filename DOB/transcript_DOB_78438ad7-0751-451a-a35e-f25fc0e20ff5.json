@@ -1,0 +1,18 @@
+[
+    {
+        "speaker": "assistant",
+        "utterance": "<break time=\"0.7s\"/> Hello. I'm Roger callin' from O'Connor Hospital on a recorded line. Is this Diane Harris?"
+    },
+    {
+        "speaker": "user",
+        "utterance": "Yes. It is."
+    },
+    {
+        "speaker": "assistant",
+        "utterance": "Wonderful, I'm calling on behalf of Dr. Susan Ma, your Nephrologist. -- To protect your privacy, can you please share your date of birth?"
+    },
+    {
+        "speaker": "user",
+        "utterance": "Yes. It's January first nineteen sixty."
+    }
+]

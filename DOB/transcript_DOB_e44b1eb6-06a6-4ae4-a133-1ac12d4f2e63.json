@@ -1,0 +1,34 @@
+[
+    {
+        "speaker": "assistant",
+        "utterance": "Is this Michael Benton?"
+    },
+    {
+        "speaker": "assistant",
+        "utterance": "May I please confirm if I'm speaking with the patient, Mr. Benton?"
+    },
+    {
+        "speaker": "user",
+        "utterance": "Yes."
+    },
+    {
+        "speaker": "user",
+        "utterance": "My birthday is"
+    },
+    {
+        "speaker": "user",
+        "utterance": "February six six Nineteen seventy"
+    },
+    {
+        "speaker": "assistant",
+        "utterance": "I'm sorry, Mr. Benton, but the date of birth you provided doesn't match our records. Could you please provide it again?"
+    },
+    {
+        "speaker": "user",
+        "utterance": "two"
+    },
+    {
+        "speaker": "user",
+        "utterance": "five nineteen seventy"
+    }
+]

@@ -1,0 +1,18 @@
+[
+    {
+        "speaker": "assistant",
+        "utterance": "Hello, this is Linda, your chronic care management , AI. May I please confirm if I'm speaking with the patient I'm supposed to be calling?"
+    },
+    {
+        "speaker": "user",
+        "utterance": "Yes, this is her."
+    },
+    {
+        "speaker": "assistant",
+        "utterance": "Wonderful, I'm calling on behalf of Dr. Maria Suarez, your Nephrologist. -- To protect your privacy, can you please share your date of birth?"
+    },
+    {
+        "speaker": "user",
+        "utterance": "April eleven, nineteen forty five."
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "speaker": "assistant",
+        "utterance": "<break time=\"0.7s\"/> Hello there. I'm Linda calling from O'Connor Hospital on a recorded line. Is this Lily Adams?"
+    },
+    {
+        "speaker": "user",
+        "utterance": "Okay."
+    },
+    {
+        "speaker": "assistant",
+        "utterance": "Wonderful, I'm calling on behalf of Dr. Jonathan Chang, your Cardiologist. -- To protect your privacy, can you please share your date of birth?"
+    },
+    {
+        "speaker": "user",
+        "utterance": "It's January one nineteen"
+    },
+    {
+        "speaker": "assistant",
+        "utterance": "-- To protect your privacy, can you please share your date of birth?"
+    },
+    {
+        "speaker": "user",
+        "utterance": "It's January one nineteen"
+    },
+    {
+        "speaker": "user",
+        "utterance": "c"
+    },
+    {
+        "speaker": "assistant",
+        "utterance": "I'm sorry, but the date of birth you provided doesn't seem to match our records. Could you please provide it again?"
+    },
+    {
+        "speaker": "user",
+        "utterance": "January first nineteen fifty Hello?"
+    }
+]

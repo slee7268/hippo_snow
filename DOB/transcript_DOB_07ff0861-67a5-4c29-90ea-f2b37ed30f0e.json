@@ -1,0 +1,18 @@
+[
+    {
+        "speaker": "assistant",
+        "utterance": "Hello, may I please confirm if I am speaking with Mr. Forbes?"
+    },
+    {
+        "speaker": "user",
+        "utterance": "Yes. You are."
+    },
+    {
+        "speaker": "assistant",
+        "utterance": "Wonderful, I'm calling on behalf of Dr. Ellie Ortega, your Cardiologist. -- To protect your privacy, can you please share your date of birth?"
+    },
+    {
+        "speaker": "user",
+        "utterance": "Mhmm.Is November eleven, nineteen eighty six."
+    }
+]

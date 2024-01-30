@@ -1,0 +1,30 @@
+[
+    {
+        "speaker": "assistant",
+        "utterance": "Hello there. I'm Linda calling from O'Connor Hospital on a recorded line. Is this Yu Zhong?"
+    },
+    {
+        "speaker": "user",
+        "utterance": "Yeah."
+    },
+    {
+        "speaker": "assistant",
+        "utterance": "Wonderful, I'm calling on behalf of Dr. Maria Rodriguez, your physician. -- To protect your privacy, can you please share your date of birth?"
+    },
+    {
+        "speaker": "user",
+        "utterance": "Hello?"
+    },
+    {
+        "speaker": "assistant",
+        "utterance": "I'm sorry, but the date of birth you provided doesn't match our records. Could you please provide it again?"
+    },
+    {
+        "speaker": "user",
+        "utterance": "I said, September twenty fifth"
+    },
+    {
+        "speaker": "user",
+        "utterance": "nineteen eighty one"
+    }
+]

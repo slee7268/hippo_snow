@@ -1,0 +1,22 @@
+[
+    {
+        "speaker": "assistant",
+        "utterance": "Hello there. I'm Linda calling from O'Connor Hospital on a recorded line. Is this Janet Phan?"
+    },
+    {
+        "speaker": "user",
+        "utterance": "Speaking."
+    },
+    {
+        "speaker": "user",
+        "utterance": "Yes."
+    },
+    {
+        "speaker": "user",
+        "utterance": "Eleven four"
+    },
+    {
+        "speaker": "user",
+        "utterance": "nineteen fifty"
+    }
+]

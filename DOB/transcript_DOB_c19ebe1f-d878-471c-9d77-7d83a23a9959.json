@@ -1,0 +1,18 @@
+[
+    {
+        "speaker": "assistant",
+        "utterance": "Hello. I'm Roger callin' from O'Connor Hospital on a recorded line. Is this Josie Morris?"
+    },
+    {
+        "speaker": "user",
+        "utterance": "It is"
+    },
+    {
+        "speaker": "assistant",
+        "utterance": "Wonderful, I'm calling on behalf of Dr. France Chin, your Cardiologist. -- To protect your privacy, can you please share your date of birth?"
+    },
+    {
+        "speaker": "user",
+        "utterance": "July twelve nineteen sixty six"
+    }
+]

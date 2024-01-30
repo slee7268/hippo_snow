@@ -1,0 +1,22 @@
+[
+    {
+        "speaker": "assistant",
+        "utterance": "To ensure patient confidentiality, could you please confirm if you are the patient we are trying to reach?"
+    },
+    {
+        "speaker": "user",
+        "utterance": "This is"
+    },
+    {
+        "speaker": "user",
+        "utterance": "dosing,"
+    },
+    {
+        "speaker": "assistant",
+        "utterance": "Wonderful, I'm calling on behalf of Dr. France Chin, your Cardiologist. -- To protect your privacy, can you please share your date of birth?"
+    },
+    {
+        "speaker": "user",
+        "utterance": "Sure. My date of birth is July twelve nineteen C6"
+    }
+]

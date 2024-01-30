@@ -1,0 +1,18 @@
+[
+    {
+        "speaker": "assistant",
+        "utterance": "Is this Viviana Frautso?"
+    },
+    {
+        "speaker": "user",
+        "utterance": "Yes, it is, Yes. It is."
+    },
+    {
+        "speaker": "assistant",
+        "utterance": "Wonderful, I'm calling on behalf of Dr. Norbeta Valencia, your Cardiologist. -- To protect your privacy, can you please share your date of birth?"
+    },
+    {
+        "speaker": "user",
+        "utterance": "Nine nine nineteen seventy two."
+    }
+]

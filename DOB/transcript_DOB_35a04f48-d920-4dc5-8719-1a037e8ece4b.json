@@ -1,0 +1,30 @@
+[
+    {
+        "speaker": "assistant",
+        "utterance": "Hello there. I'm Linda calling from O'Connor Hospital on a recorded line. Is this Carla Arnold?"
+    },
+    {
+        "speaker": "user",
+        "utterance": "Yes. It is."
+    },
+    {
+        "speaker": "assistant",
+        "utterance": "-- To protect your privacy, can you please share your date of birth?"
+    },
+    {
+        "speaker": "user",
+        "utterance": "Sure. It is o four"
+    },
+    {
+        "speaker": "user",
+        "utterance": "O sex,"
+    },
+    {
+        "speaker": "user",
+        "utterance": "O sex,"
+    },
+    {
+        "speaker": "user",
+        "utterance": "nineteen eighty"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "speaker": "assistant",
+        "utterance": "Hello. I'm Roger callin' from O'Connor Hospital on a recorded line. Is this Timothy Peck?"
+    },
+    {
+        "speaker": "user",
+        "utterance": "Yes, it is. Yes, it is. Yes, it is."
+    },
+    {
+        "speaker": "assistant",
+        "utterance": "Wonderful, I'm calling on behalf of Dr. Maria Rodriguez, your physician. -- To protect your privacy, can you please share your date of birth?"
+    },
+    {
+        "speaker": "user",
+        "utterance": "Not."
+    },
+    {
+        "speaker": "assistant",
+        "utterance": "I'm sorry, Mr. Peck, but the date of birth you provided earlier doesn't match our records. Could you please provide your date of birth again for verification purposes?"
+    },
+    {
+        "speaker": "user",
+        "utterance": "April Third, nineteen forty two,"
+    }
+]

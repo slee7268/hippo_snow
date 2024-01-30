@@ -1,0 +1,26 @@
+[
+    {
+        "speaker": "user",
+        "utterance": "Right"
+    },
+    {
+        "speaker": "assistant",
+        "utterance": "Hello, may I confirm if I am speaking with Mr. Eduardo Hardy?"
+    },
+    {
+        "speaker": "user",
+        "utterance": "You are."
+    },
+    {
+        "speaker": "assistant",
+        "utterance": "Wonderful, I'm calling on behalf of Dr. Anuj Gopal, your Nephrologist. -- To protect your privacy, can you please share your date of birth?"
+    },
+    {
+        "speaker": "user",
+        "utterance": "January first"
+    },
+    {
+        "speaker": "user",
+        "utterance": "nineteen fifty"
+    }
+]

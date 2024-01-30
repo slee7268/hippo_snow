@@ -1,0 +1,18 @@
+[
+    {
+        "speaker": "assistant",
+        "utterance": "Hi, this is Rachel calling from O'Connor Hospital on a recorded line. Is this Quincy Castillo?"
+    },
+    {
+        "speaker": "user",
+        "utterance": "This is quincy"
+    },
+    {
+        "speaker": "assistant",
+        "utterance": "-- To protect your privacy, can you please share your date of birth?"
+    },
+    {
+        "speaker": "user",
+        "utterance": "It is eight twenty four nineteen eighty six"
+    }
+]

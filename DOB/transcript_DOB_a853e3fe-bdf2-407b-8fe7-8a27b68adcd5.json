@@ -1,0 +1,26 @@
+[
+    {
+        "speaker": "user",
+        "utterance": "Wipping"
+    },
+    {
+        "speaker": "assistant",
+        "utterance": "Hello, may I confirm if I am speaking with the person I am trying to reach?"
+    },
+    {
+        "speaker": "user",
+        "utterance": "Yes."
+    },
+    {
+        "speaker": "assistant",
+        "utterance": "Wonderful, I'm calling on behalf of Dr. Jonathan Chang, your Cardiologist. -- To protect your privacy, can you please share your date of birth?"
+    },
+    {
+        "speaker": "user",
+        "utterance": "January first nineteen fifty"
+    },
+    {
+        "speaker": "user",
+        "utterance": "nineteen fifty"
+    }
+]

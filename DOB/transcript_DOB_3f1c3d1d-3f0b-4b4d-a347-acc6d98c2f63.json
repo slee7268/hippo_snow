@@ -1,0 +1,22 @@
+[
+    {
+        "speaker": "assistant",
+        "utterance": "Hello. I'm Roger callin' from O'Connor Hospital on a recorded line. Is this Nancy Farrell?"
+    },
+    {
+        "speaker": "user",
+        "utterance": "Yes,"
+    },
+    {
+        "speaker": "assistant",
+        "utterance": "-- To protect your privacy, can you please share your date of birth?"
+    },
+    {
+        "speaker": "user",
+        "utterance": "Five"
+    },
+    {
+        "speaker": "user",
+        "utterance": "four four nineteen forty"
+    }
+]

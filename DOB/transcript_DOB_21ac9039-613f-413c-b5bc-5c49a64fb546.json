@@ -1,0 +1,46 @@
+[
+    {
+        "speaker": "assistant",
+        "utterance": "I'm calling on behalf of Doctor Sarah Forbes. May I confirm if I'm speaking with her patient?"
+    },
+    {
+        "speaker": "user",
+        "utterance": "Yes. I see that doctor."
+    },
+    {
+        "speaker": "assistant",
+        "utterance": "Wonderful, I'm calling on behalf of Dr. Sarah Forbes, your Cardiologist. -- To protect your privacy, can you please share your date of birth?"
+    },
+    {
+        "speaker": "user",
+        "utterance": "sixty seven"
+    },
+    {
+        "speaker": "assistant",
+        "utterance": "I'm sorry, but the date of birth you provided doesn't match our records. Could you please provide it again? Remember, we need the full date including the month, day, and year."
+    },
+    {
+        "speaker": "user",
+        "utterance": "Ware eight lasix seven"
+    },
+    {
+        "speaker": "assistant",
+        "utterance": "I'm sorry, but the date of birth you provided doesn't seem to match our records. Could you please provide it again for verification?"
+    },
+    {
+        "speaker": "user",
+        "utterance": "Okay."
+    },
+    {
+        "speaker": "user",
+        "utterance": "Yes. It's twelve eight Aileen sixty seven"
+    },
+    {
+        "speaker": "assistant",
+        "utterance": "I'm sorry, but the date of birth you provided doesn't match our records. Could you please provide it again?"
+    },
+    {
+        "speaker": "user",
+        "utterance": "December nineteen sixty seven"
+    }
+]

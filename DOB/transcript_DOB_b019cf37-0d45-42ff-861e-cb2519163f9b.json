@@ -1,0 +1,22 @@
+[
+    {
+        "speaker": "assistant",
+        "utterance": "I'm sorry, but I need to confirm. Are you Izzie Chavez?"
+    },
+    {
+        "speaker": "user",
+        "utterance": "Yes."
+    },
+    {
+        "speaker": "assistant",
+        "utterance": "-- To protect your privacy, can you please share your date of birth?"
+    },
+    {
+        "speaker": "user",
+        "utterance": "five four"
+    },
+    {
+        "speaker": "user",
+        "utterance": "nineteen six five."
+    }
+]

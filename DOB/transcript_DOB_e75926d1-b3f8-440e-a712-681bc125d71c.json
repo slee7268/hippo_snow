@@ -1,0 +1,18 @@
+[
+    {
+        "speaker": "user",
+        "utterance": "Yu, Zhong,"
+    },
+    {
+        "speaker": "user",
+        "utterance": "Is that who Yu wanting to talk to"
+    },
+    {
+        "speaker": "assistant",
+        "utterance": "Wonderful, I'm calling on behalf of Dr. Maria Rodriguez, your physician. -- To protect your privacy, can you please share your date of birth?"
+    },
+    {
+        "speaker": "user",
+        "utterance": "My birthday is September twenty fifth nineteen eighty one"
+    }
+]

@@ -1,0 +1,50 @@
+[
+    {
+        "speaker": "user",
+        "utterance": "Hello?"
+    },
+    {
+        "speaker": "assistant",
+        "utterance": "Hello, may I confirm if I'm speaking with Carla Arnold?"
+    },
+    {
+        "speaker": "user",
+        "utterance": "Yes. This is Carla."
+    },
+    {
+        "speaker": "assistant",
+        "utterance": "Wonderful, I'm calling on behalf of Dr. Jack Smith, your physician. -- To protect your privacy, can you please share your date of birth?"
+    },
+    {
+        "speaker": "user",
+        "utterance": "April six nineteen eight eight."
+    },
+    {
+        "speaker": "assistant",
+        "utterance": "I'm sorry, Carla, but the date of birth you provided doesn't match our records. Could you please provide it again?"
+    },
+    {
+        "speaker": "user",
+        "utterance": "April Nineteen eighty"
+    },
+    {
+        "speaker": "assistant",
+        "utterance": "I'm sorry, Carla, but the date of birth you provided still doesn't match our records. Could you please provide it again?"
+    },
+    {
+        "speaker": "user",
+        "utterance": "April Thanks. Nineteen eighty"
+    },
+    {
+        "speaker": "user",
+        "utterance": "Nineteen eighty"
+    },
+    {
+        "speaker": "assistant",
+        "utterance": "I apologize for the inconvenience, Carla, but the date of birth you provided still doesn't match our records. Could you please provide it again?"
+    },
+    {
+        "speaker": "user",
+        "utterance": "April six, nineteen eighty."
+    }
+]

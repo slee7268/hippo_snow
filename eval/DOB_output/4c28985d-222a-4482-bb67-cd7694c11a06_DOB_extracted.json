@@ -1,0 +1,52 @@
+{
+    "messages": [
+        {
+            "speaker": "assistant",
+            "utterance": "Hi, this is Rachel calling from O'Connor Hospital on a recorded line. Is this Glen Forbes?"
+        },
+        {
+            "speaker": "user",
+            "utterance": "This is he."
+        },
+        {
+            "speaker": "assistant",
+            "utterance": "Wonderful, I'm calling on behalf of Dr. Ellie Ortega, your Cardiologist. -- To protect your privacy, can you please share your date of birth?"
+        },
+        {
+            "speaker": "user",
+            "utterance": "nineteen eighty six"
+        },
+        {
+            "speaker": "assistant",
+            "utterance": "I'm sorry, Glen, but the date of birth you provided doesn't match our records. Could you please provide it again?"
+        },
+        {
+            "speaker": "user",
+            "utterance": "Glen eleven nineteen eighty six"
+        },
+        {
+            "speaker": "assistant",
+            "utterance": "I'm sorry, Glen, but the date of birth you provided still doesn't match our records. Could you please provide it again?"
+        },
+        {
+            "speaker": "user",
+            "utterance": "eleven Glen eighty"
+        },
+        {
+            "speaker": "assistant",
+            "utterance": "I apologize for the confusion, Glen, but the date of birth you provided still doesn't match our records. Could you please provide it again?"
+        },
+        {
+            "speaker": "user",
+            "utterance": "One one one, one one"
+        },
+        {
+            "speaker": "user",
+            "utterance": "nineteen eighty six"
+        }
+    ],
+    "metadata": {
+        "call_id": "4c28985d-222a-4482-bb67-cd7694c11a06",
+        "DOB_extracted": "11-01-1986"
+    }
+}

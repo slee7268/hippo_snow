@@ -1,0 +1,26 @@
+[
+    {
+        "speaker": "user",
+        "utterance": "Hello."
+    },
+    {
+        "speaker": "assistant",
+        "utterance": "Hello, may I please confirm if I am speaking with Mr. Ronald Turner?"
+    },
+    {
+        "speaker": "user",
+        "utterance": "Yeah. This is him."
+    },
+    {
+        "speaker": "assistant",
+        "utterance": "-- To protect your privacy, can you please share your date of birth?"
+    },
+    {
+        "speaker": "user",
+        "utterance": "Sure, it's"
+    },
+    {
+        "speaker": "user",
+        "utterance": "Five two nineteen thirty nine."
+    }
+]

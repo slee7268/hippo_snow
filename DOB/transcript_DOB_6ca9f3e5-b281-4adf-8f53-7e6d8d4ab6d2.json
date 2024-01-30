@@ -1,0 +1,42 @@
+[
+    {
+        "speaker": "assistant",
+        "utterance": "Hello there. I'm Linda calling from Baylor Scott & White Heart and Vascular Hospital on a recorded line. Is this Sally Adams?"
+    },
+    {
+        "speaker": "user",
+        "utterance": "Yes. It is."
+    },
+    {
+        "speaker": "assistant",
+        "utterance": "-- To protect your privacy, can you please share your date of birth?"
+    },
+    {
+        "speaker": "user",
+        "utterance": "Zero one zero one one nine five"
+    },
+    {
+        "speaker": "user",
+        "utterance": "zero one one nine"
+    },
+    {
+        "speaker": "user",
+        "utterance": "by zero"
+    },
+    {
+        "speaker": "assistant",
+        "utterance": "I'm sorry, Sally, but the date of birth you provided still doesn't match our records. Could you please provide it again?"
+    },
+    {
+        "speaker": "user",
+        "utterance": "O one"
+    },
+    {
+        "speaker": "user",
+        "utterance": "zero one"
+    },
+    {
+        "speaker": "user",
+        "utterance": "nineteen fifty"
+    }
+]

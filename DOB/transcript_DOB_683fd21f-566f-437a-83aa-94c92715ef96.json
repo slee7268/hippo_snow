@@ -1,0 +1,18 @@
+[
+    {
+        "speaker": "assistant",
+        "utterance": "Yes, I am your chronic care management AI. May I confirm, am I speaking with Janet?"
+    },
+    {
+        "speaker": "user",
+        "utterance": "You are"
+    },
+    {
+        "speaker": "assistant",
+        "utterance": "Wonderful, I'm calling on behalf of Dr. Miguel Strother, your Cardiologist. -- To protect your privacy, can you please share your date of birth?"
+    },
+    {
+        "speaker": "user",
+        "utterance": "eleven four nineteen fifty"
+    }
+]

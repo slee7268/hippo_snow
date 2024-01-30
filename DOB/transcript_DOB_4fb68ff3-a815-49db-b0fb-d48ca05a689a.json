@@ -1,0 +1,18 @@
+[
+    {
+        "speaker": "assistant",
+        "utterance": "I apologize for any confusion. My name is Roger, I am an , AI calling on behalf of Doctor Susan Ma. May I ask if I am speaking with her patient?"
+    },
+    {
+        "speaker": "user",
+        "utterance": "That is my doctor. Yes."
+    },
+    {
+        "speaker": "assistant",
+        "utterance": "Wonderful, I'm calling on behalf of Dr. Susan Ma, your Cardiologist. -- To protect your privacy, can you please share your date of birth?"
+    },
+    {
+        "speaker": "user",
+        "utterance": "March second nineteen sixty"
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "speaker": "assistant",
+        "utterance": "Is this Yu Zhong?"
+    },
+    {
+        "speaker": "user",
+        "utterance": "Thank"
+    },
+    {
+        "speaker": "user",
+        "utterance": "Yes."
+    },
+    {
+        "speaker": "assistant",
+        "utterance": "Wonderful, I'm calling on behalf of Dr. Maria Rodriguez, your physician. -- To protect your privacy, can you please share your date of birth?"
+    },
+    {
+        "speaker": "user",
+        "utterance": "If"
+    },
+    {
+        "speaker": "assistant",
+        "utterance": "I'm sorry, but the date of birth we have on file doesn't seem to match the one you provided earlier."
+    },
+    {
+        "speaker": "user",
+        "utterance": "Nine"
+    },
+    {
+        "speaker": "user",
+        "utterance": "twenty five nineteen eighty one"
+    }
+]

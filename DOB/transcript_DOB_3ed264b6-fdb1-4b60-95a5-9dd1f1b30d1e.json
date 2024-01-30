@@ -1,0 +1,22 @@
+[
+    {
+        "speaker": "assistant",
+        "utterance": "Hello, may I please confirm if I am speaking with Carolyn Young?"
+    },
+    {
+        "speaker": "user",
+        "utterance": "This is Carolyn,"
+    },
+    {
+        "speaker": "assistant",
+        "utterance": "-- To protect your privacy, can you please share your date of birth?"
+    },
+    {
+        "speaker": "user",
+        "utterance": "five"
+    },
+    {
+        "speaker": "user",
+        "utterance": "twenty three Nineteen six six"
+    }
+]

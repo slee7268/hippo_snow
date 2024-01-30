@@ -1,0 +1,18 @@
+[
+    {
+        "speaker": "user",
+        "utterance": "[NO RESPONSE] All right."
+    },
+    {
+        "speaker": "user",
+        "utterance": "What do you want to know"
+    },
+    {
+        "speaker": "assistant",
+        "utterance": "Wonderful, I'm calling on behalf of Dr. Marta Marcuso, your Cardiologist. -- To protect your privacy, can you please share your date of birth?"
+    },
+    {
+        "speaker": "user",
+        "utterance": "February five, nineteen seventy."
+    }
+]

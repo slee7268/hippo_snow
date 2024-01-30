@@ -1,0 +1,66 @@
+[
+    {
+        "speaker": "assistant",
+        "utterance": "Hello there. I'm Linda calling from O'Connor Hospital on a recorded line. Is this Michael Benton?"
+    },
+    {
+        "speaker": "user",
+        "utterance": "Yep."
+    },
+    {
+        "speaker": "assistant",
+        "utterance": "Wonderful, I'm calling on behalf of Dr. Marta Marcuso, your physician. -- To protect your privacy, can you please share your date of birth?"
+    },
+    {
+        "speaker": "user",
+        "utterance": "February"
+    },
+    {
+        "speaker": "user",
+        "utterance": "nineteen seventy"
+    },
+    {
+        "speaker": "assistant",
+        "utterance": "I'm sorry, Michael, but the date of birth you provided doesn't match our records. Could you please provide it again?"
+    },
+    {
+        "speaker": "user",
+        "utterance": "February five nineteen seven"
+    },
+    {
+        "speaker": "assistant",
+        "utterance": "Could you please provide it again?"
+    },
+    {
+        "speaker": "user",
+        "utterance": "Q"
+    },
+    {
+        "speaker": "user",
+        "utterance": "five seventy"
+    },
+    {
+        "speaker": "assistant",
+        "utterance": "I apologize for the inconvenience, Michael, but the date of birth you provided still doesn't match our records. Could you please provide it again?"
+    },
+    {
+        "speaker": "user",
+        "utterance": "February"
+    },
+    {
+        "speaker": "user",
+        "utterance": "nineteen seventy"
+    },
+    {
+        "speaker": "user",
+        "utterance": "nineteen seventy"
+    },
+    {
+        "speaker": "assistant",
+        "utterance": "I'm sorry for the inconvenience, Michael, but we're having trouble verifying your identity."
+    },
+    {
+        "speaker": "user",
+        "utterance": "February five nineteen seventy."
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "speaker": "assistant",
+        "utterance": "Hello, may I confirm if I am speaking with Mr. Chavez?"
+    },
+    {
+        "speaker": "user",
+        "utterance": "This is"
+    },
+    {
+        "speaker": "assistant",
+        "utterance": "-- To protect your privacy, can you please share your date of birth?"
+    },
+    {
+        "speaker": "user",
+        "utterance": "May four nineteen six"
+    },
+    {
+        "speaker": "user",
+        "utterance": "c five"
+    }
+]

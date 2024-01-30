@@ -1,0 +1,26 @@
+[
+    {
+        "speaker": "assistant",
+        "utterance": "Hello. I'm Roger callin' from O'Connor Hospital on a recorded line. Is this Izzie Chavez?"
+    },
+    {
+        "speaker": "user",
+        "utterance": "Yes?"
+    },
+    {
+        "speaker": "assistant",
+        "utterance": "Wonderful, I'm calling on behalf of Dr. Robert Jackson, your Cardiologist. -- To protect your privacy, can you please share your date of birth?"
+    },
+    {
+        "speaker": "user",
+        "utterance": "Slide four sixty five."
+    },
+    {
+        "speaker": "assistant",
+        "utterance": "I'm sorry, Izzie, but the date of birth you provided doesn't seem to match our records. Could you please provide it again?"
+    },
+    {
+        "speaker": "user",
+        "utterance": "May the fourth, nineteen sixty five."
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "speaker": "assistant",
+        "utterance": "Hello there. I'm Linda calling from O'Connor Hospital on a recorded line. Is this Pete Arnold?"
+    },
+    {
+        "speaker": "user",
+        "utterance": "Yes."
+    },
+    {
+        "speaker": "assistant",
+        "utterance": "Wonderful, I'm calling on behalf of Dr. Jack Smith, your Cardiologist. -- To protect your privacy, can you please share your date of birth?"
+    },
+    {
+        "speaker": "user",
+        "utterance": "For Jack's"
+    },
+    {
+        "speaker": "assistant",
+        "utterance": "Yes, I'm calling on behalf of Doctor Jack Smith. However, before we proceed, I need to verify your date of birth for security purposes. Could you please provide it again?"
+    },
+    {
+        "speaker": "user",
+        "utterance": "April six"
+    },
+    {
+        "speaker": "assistant",
+        "utterance": "However, before we proceed, I need to verify your date of birth for security purposes. Could you please provide it again?"
+    },
+    {
+        "speaker": "user",
+        "utterance": "April six"
+    },
+    {
+        "speaker": "user",
+        "utterance": "nineteen eighty"
+    }
+]

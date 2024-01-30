@@ -1,0 +1,14 @@
+[
+    {
+        "speaker": "user",
+        "utterance": "This is Stuart This is Stuart Wilson Host calling,"
+    },
+    {
+        "speaker": "assistant",
+        "utterance": "Wonderful, I'm calling on behalf of Dr. Sunny Cooper, your Cardiologist. -- To protect your privacy, can you please share your date of birth?"
+    },
+    {
+        "speaker": "user",
+        "utterance": "August twelve nineteen sixty one."
+    }
+]

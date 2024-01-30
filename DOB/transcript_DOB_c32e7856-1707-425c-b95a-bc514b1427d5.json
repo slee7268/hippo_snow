@@ -1,0 +1,18 @@
+[
+    {
+        "speaker": "assistant",
+        "utterance": "This call is intended for a patient under the care of Doctor Malcom Garrett. Could you please confirm if that's you?"
+    },
+    {
+        "speaker": "user",
+        "utterance": "Yes, that's me."
+    },
+    {
+        "speaker": "assistant",
+        "utterance": "Wonderful, I'm calling on behalf of Dr. Malcom Garrett, your Cardiologist. -- To protect your privacy, can you please share your date of birth?"
+    },
+    {
+        "speaker": "user",
+        "utterance": "September seventeenth to nineteen eighty seven,"
+    }
+]

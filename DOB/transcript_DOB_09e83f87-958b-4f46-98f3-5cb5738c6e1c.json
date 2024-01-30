@@ -1,0 +1,22 @@
+[
+    {
+        "speaker": "assistant",
+        "utterance": "Thank you for your response. Just to confirm, am I speaking with Mr. Jon Chavez?"
+    },
+    {
+        "speaker": "user",
+        "utterance": "Yes. It is."
+    },
+    {
+        "speaker": "assistant",
+        "utterance": "Wonderful, I'm calling on behalf of Dr. Stephen Langley, your physician. -- To protect your privacy, can you please share your date of birth?"
+    },
+    {
+        "speaker": "user",
+        "utterance": "five four nineteen sixty"
+    },
+    {
+        "speaker": "user",
+        "utterance": "five"
+    }
+]

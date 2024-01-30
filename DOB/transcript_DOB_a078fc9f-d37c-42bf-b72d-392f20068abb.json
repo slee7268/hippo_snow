@@ -1,0 +1,30 @@
+[
+    {
+        "speaker": "assistant",
+        "utterance": "<break time=\"0.7s\"/> Hello there. I'm Linda calling from O'Connor Hospital on a recorded line. Is this George Hernandez?"
+    },
+    {
+        "speaker": "user",
+        "utterance": "Hi, Lynda. This is George."
+    },
+    {
+        "speaker": "assistant",
+        "utterance": "Wonderful, I'm calling on behalf of Dr. Susan Ma, your Nephrologist. -- To protect your privacy, can you please share your date of birth?"
+    },
+    {
+        "speaker": "user",
+        "utterance": "Hi, Linda. This is George"
+    },
+    {
+        "speaker": "user",
+        "utterance": "This is George"
+    },
+    {
+        "speaker": "assistant",
+        "utterance": "Hello George, I'm sorry for the confusion, but the date of birth we have on file doesn't seem to match the one you provided earlier. Could you please provide your date of birth again for verification purposes?"
+    },
+    {
+        "speaker": "user",
+        "utterance": "January first nineteen sixty."
+    }
+]

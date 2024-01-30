@@ -1,0 +1,26 @@
+[
+    {
+        "speaker": "user",
+        "utterance": "Hello. Please"
+    },
+    {
+        "speaker": "user",
+        "utterance": "Yes, it's pronounced Elena."
+    },
+    {
+        "speaker": "assistant",
+        "utterance": "Wonderful, I'm calling on behalf of Dr. Dora Doukas, your Cardiologist. -- To protect your privacy, can you please share your date of birth?"
+    },
+    {
+        "speaker": "user",
+        "utterance": "Saying"
+    },
+    {
+        "speaker": "user",
+        "utterance": "Saying"
+    },
+    {
+        "speaker": "user",
+        "utterance": "Three three three nineteen seventy eight"
+    }
+]

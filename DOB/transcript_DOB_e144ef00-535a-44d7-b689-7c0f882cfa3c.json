@@ -1,0 +1,34 @@
+[
+    {
+        "speaker": "assistant",
+        "utterance": "Hi, this is Rachel calling from O'Connor Hospital on a recorded line. Is this Tadeo Williamson?"
+    },
+    {
+        "speaker": "user",
+        "utterance": "Yep."
+    },
+    {
+        "speaker": "assistant",
+        "utterance": "Wonderful, I'm calling on behalf of Dr. Jack Van, your Cardiologist. -- To protect your privacy, can you please share your date of birth?"
+    },
+    {
+        "speaker": "user",
+        "utterance": "November twenty first nineteen fifty."
+    },
+    {
+        "speaker": "user",
+        "utterance": "Four"
+    },
+    {
+        "speaker": "user",
+        "utterance": "Four"
+    },
+    {
+        "speaker": "assistant",
+        "utterance": "I'm sorry, but the date of birth you provided doesn't match our records. Could you please provide it again?"
+    },
+    {
+        "speaker": "user",
+        "utterance": "November twenty first nineteen fifty four"
+    }
+]

@@ -1,0 +1,17 @@
+model_config:
+  model_name: gpt-4-1106-preview
+  temperature: 0.5
+
+file_paths:
+  transcripts_directory: ../DOB/
+  output_directory: DOB_output/
+  call_ids_file: ../1_25_mentoring_call_ids.json
+
+database:
+  db_connection: snow_db
+
+sys_message:
+  file_path: dob_system_prompt.txt
+
+task: DOB
+    

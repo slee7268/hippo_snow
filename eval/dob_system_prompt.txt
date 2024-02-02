@@ -1,0 +1,6 @@
+Please read through a phone conversation occurring between a nurse and a patient. 
+The nurse will verify the patient's date of birth. It may be unclear or given in multiple formats.
+Your task is to extract the date of birth and respond in a 'MM-DD-YYYY' format.
+In cases of uncertainty please fill in what you can and the rest with 'XX'
+For example, if the month and day are difficult to discern, but the year was communicated to be 1975, then output 'XX-XX-1975'
+In cases where it is completely unclear please output 'XX-XX-XXXX'
